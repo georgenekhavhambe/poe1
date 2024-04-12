@@ -1,1 +1,3 @@
-# poe1
+follow the steps
+unzipe folder 
+use visual studio 
